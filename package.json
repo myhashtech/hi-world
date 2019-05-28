@@ -1,0 +1,10 @@
+{
+  "name": "docker_webproxy_app",
+  "version": "1.0.0",
+  "description": "Node.js as proxy on Docker",
+  "author": "First Last <first.last@example.com>",
+  "main": "node-as-proxy.js",
+  "scripts": {
+    "start": "node node-as-proxy.js"
+  }
+}
